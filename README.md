@@ -9,13 +9,12 @@ Welcome to my GitHub profile! I'm a passionate student in **classe préparatoire
 - 🔍 Interested in **machine learning, artificial intelligence, and algorithmic creativity**
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C, C++, JavaScript
-- **Frameworks/Libraries**: NumPy, SciPy, TensorFlow, Pytorch
-- **Tools**: Git, PyCharm, Unity
+- **Languages**: Python
+- **Frameworks/Libraries**: Pytorch
+- **Tools**: VSCode
 
 ## 🌱 Current Focus
 - Enhancing my **AI model** for musical composition
 - Exploring **harmonic principles** in machine learning
-- Learning **reinforcement learning** for structured music generation
 
 Thanks for visiting!
